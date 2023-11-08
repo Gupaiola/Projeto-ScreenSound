@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\bin\Debug\net7.0\Projeto_Alura.exe
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\bin\Debug\net7.0\Projeto_Alura.deps.json
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\bin\Debug\net7.0\Projeto_Alura.runtimeconfig.json
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\bin\Debug\net7.0\Projeto_Alura.dll
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\bin\Debug\net7.0\Projeto_Alura.pdb
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.dll
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\refint\Projeto_Alura.dll
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.pdb
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\Projeto_Alura.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Cursos\TI\C#\arquivos\Projeto Alura\Projeto_Alura\obj\Debug\net7.0\ref\Projeto_Alura.dll
